@@ -31,5 +31,7 @@ This project involves comprehensive exploratory data analysis (EDA) on online re
 
 ## 🚀 Key Takeaways
 ✅ Data preprocessing is crucial for accurate insights.
+
 ✅ Logical, data-driven analysis > intuition.
+
 ✅ Segmentation enables personalized marketing strategies.
