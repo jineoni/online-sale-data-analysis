@@ -13,21 +13,21 @@ This project involves comprehensive exploratory data analysis (EDA) on online re
 --------------------------
 
 ## 🎯 Project Goals
-Identify key markets
-Analyze purchasing trends
-Develop customer segmentation for personalized marketing
+- Identify key markets
+- Analyze purchasing trends
+- Develop customer segmentation for personalized marketing
 
 ## 🔍 Key Analyses & Insights
 ### 📊 Purchasing Trend Analysis
-Stable quantity & price trends except for outliers caused by bulk purchases & refunds (members) and high-value purchases/refunds (non-members).
-Transaction volume shows a 7-day seasonality with spikes on Mondays (likely B2B restocking) and an overall growth trend.
+- Stable quantity & price trends except for outliers caused by bulk purchases & refunds (members) and high-value purchases/refunds (non-members).
+- Transaction volume shows a 7-day seasonality with spikes on Mondays (likely B2B restocking) and an overall growth trend.
 ### 🌍 Market Identification
-United Kingdom is the dominant market.
-Different countries have distinct product preferences, requiring tailored inventory strategies.
+- United Kingdom is the dominant market.
+- Different countries have distinct product preferences, requiring tailored inventory strategies.
 ### 🛍 Customer Segmentation (UK Market)
-Members buy 8x more per transaction (B2B customers).
-Non-members spend 2x more per item → Opportunity for premium product recommendations.
-RFM-based Clustering (4 groups) → Targeted strategies for key customers, at-risk customers, and high-refund customers.
+- Members buy 8x more per transaction (B2B customers).
+- Non-members spend 2x more per item → Opportunity for premium product recommendations.
+- RFM-based Clustering (4 groups) → Targeted strategies for key customers, at-risk customers, and high-refund customers.
 
 ## 🚀 Key Takeaways
 ✅ Data preprocessing is crucial for accurate insights.
